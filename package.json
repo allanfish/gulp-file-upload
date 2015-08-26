@@ -1,0 +1,28 @@
+{
+  "author": {
+    "name": "allanfish"
+  },
+  "name": "gulp-file-upload",
+  "description": "gulp upload file to test environment",
+  "version": "0.0.2",
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "request": "^2.61.0",
+    "through2": "^2.0.0"
+  },
+  "scripts": {},
+  "maintainers": [
+    {
+      "name": "xueshanpeng",
+      "email": "289159468@qq.com"
+    },
+    {
+      "name": "allanyu",
+      "email": "allanyu@tencent.com"
+    }
+  ]
+}
